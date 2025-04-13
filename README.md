@@ -30,9 +30,9 @@ Sou apaixonado por tecnologia e estou dando meus primeiros passos no mundo do de
 ---
 ## Stats
 
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoAlvosa&show_icons=true&theme=radical)
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoAlvosa&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAlvosa&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAlvosa&layout=compact&theme=dark)
 
 ---
 
