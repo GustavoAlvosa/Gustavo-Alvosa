@@ -28,6 +28,13 @@ Sou apaixonado por tecnologia e estou dando meus primeiros passos no mundo do de
 - Construindo meu portfólio com os projetos que for criando
 
 ---
+## 📊 GitHub Stats
+
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoAlvosa&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAlvosa&layout=compact&theme=radical)
+
+---
 
 ## Contato
 
