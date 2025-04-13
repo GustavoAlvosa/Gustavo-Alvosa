@@ -31,7 +31,7 @@ Sou apaixonado por tecnologia e estou dando meus primeiros passos no mundo do de
 
 ## Contato
 
-- [seuemail@gmail.com](mailto:gustavoalvosa@gmail.com)
+- [gustavoalvosa@gmail.com](mailto:gustavoalvosa@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/gustavo-alvosa/)
 
 ---
